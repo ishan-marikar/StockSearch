@@ -17,7 +17,7 @@ mistune==0.7.1
 more-itertools==2.2
 nbconvert==4.0.0
 nbformat==4.0.0
-notebook==4.0.5
+notebook==6.1.5
 path.py==8.1.1
 pexpect==3.3
 pickleshare==0.5
