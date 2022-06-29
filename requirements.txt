@@ -26,7 +26,7 @@ psycopg2==2.6.1
 ptyprocess==0.5
 Pygments==2.0.2
 pyzmq==14.7.0
-requests==2.7.0
+requests==2.20
 simplegeneric==0.8.1
 six==1.9.0
 sqlparse==0.1.16
