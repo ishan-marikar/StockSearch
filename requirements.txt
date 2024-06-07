@@ -31,6 +31,6 @@ simplegeneric==0.8.1
 six==1.9.0
 sqlparse==0.1.16
 terminado==0.5
-tornado==4.2.1
+tornado==6.4.1
 traitlets==4.0.0
 wheel==0.24.0
